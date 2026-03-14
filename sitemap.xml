@@ -32,6 +32,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/winter-pants/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
